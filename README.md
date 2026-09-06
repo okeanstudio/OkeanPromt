@@ -84,9 +84,9 @@ MyProject/
 
 **Portable версия (рекомендуется):**
 
-1. Скачайте `AI-Prompt-Builder.zip`
+1. Скачайте `Okean-Promt.zip`
 2. Распакуйте в любую папку
-3. Запустите `AI-Prompt-Builder.exe`
+3. Запустите `Okean-Promt.exe`
 
 **Установщик:**
 
@@ -146,10 +146,10 @@ MyProject/
 ## 📂 Структура проекта
 
 ```
-AI-Prompt-Builder/
-├── AI-Prompt-Builder.sln
+Okean-Promt/
+├── Okean-Promt.sln
 ├── src/
-│   ├── AI-Prompt-Builder/
+│   ├── Okean-Promt/
 │   │   ├── Forms/          # Формы интерфейса
 │   │   ├── Models/         # Модели данных
 │   │   ├── ViewModels/     # Бизнес-логика
