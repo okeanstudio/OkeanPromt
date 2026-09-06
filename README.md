@@ -39,6 +39,7 @@
 Пример: вы загружаете папку с проектом.
 
 **Было:**
+
 ```
 📦 MyProject/
 ├── .idea/              ← удалится
@@ -51,29 +52,25 @@
 ```
 
 **Стало (промт):**
+
 ```
 Вот мой код:
 
 Program.cs:
-```csharp
 Console.WriteLine("Hello, World!");
-```
 
 Utils.cs:
-```csharp
 public static class Utils
 {
     public static string Helper() => "Helper";
 }
-```
 
 Вот структура проекта:
-```
+
 MyProject/
   Program.cs
   Utils.cs
   appsettings.json
-```
 
 Добавь в этот код способы оплаты.
 ```
